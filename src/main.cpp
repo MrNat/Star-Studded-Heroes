@@ -4,8 +4,8 @@
 
 int main(int argc, char ** argv)
 {
-	//CoreEngine engine;
-	//engine.Start();
+	CoreEngine engine;
+	engine.Start();
 
 	return 0;
 }

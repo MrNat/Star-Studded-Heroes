@@ -1,8 +1,8 @@
-﻿Build started 12/6/2014 12:52:32 PM.
+﻿Build started 12/7/2014 7:38:23 PM.
      1>Project "D:\Projects\Development\Star-Studded Heroes\Star-Studded Heroes\Star-Studded Heroes\Star-Studded Heroes.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\Downloads\SDL2-devel-2.0.3-mingw\include" /I"D:\Downloads\bullet3-master\bullet3-master\src" /I"D:\GLEW\glew-1.10.0\include" /I"D:\GLM\glm-0.9.4.4\glm" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\CoreEngine.cpp
-         CoreEngine.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\Downloads\SDL2-devel-2.0.3-mingw\include" /I"D:\Downloads\bullet3-master\bullet3-master\src" /I"D:\GLEW\glew-1.10.0\include" /I"D:\GLM\glm-0.9.4.4\glm" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp
+         main.cpp
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\Development\Star-Studded Heroes\Star-Studded Heroes\Debug\Star-Studded Heroes.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Downloads\SDL2-devel-2.0.3-mingw\lib\x86" /LIBPATH:"D:\Downloads\glew-1.11.0-win32\glew-1.11.0\lib\Release\Win32" /LIBPATH:"D:\Downloads\glew-1.11.0-win32\glew-1.11.0\bin\Release\Win32" opengl32.lib glu32.lib glew32.lib SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\Development\Star-Studded Heroes\Star-Studded Heroes\Debug\Star-Studded Heroes.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\Development\Star-Studded Heroes\Star-Studded Heroes\Debug\Star-Studded Heroes.lib" /MACHINE:X86 Debug\CoreEngine.obj
          Debug\EntityPhysicsComponent.obj
@@ -18,4 +18,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.97
+Time Elapsed 00:00:01.78
