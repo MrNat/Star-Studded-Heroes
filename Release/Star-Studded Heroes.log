@@ -1,0 +1,21 @@
+﻿Build started 12/4/2014 4:32:21 PM.
+     1>Project "D:\Projects\Development\Star-Studded Heroes\Star-Studded Heroes\Star-Studded Heroes\Star-Studded Heroes.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\CoreEngine.cpp src\EntityPhysicsComponent.cpp src\EntityRenderComponent.cpp src\InputModule.cpp src\main.cpp src\PhysicsModule.cpp src\RenderComponent.cpp src\RenderModule.cpp src\World.cpp
+         CoreEngine.cpp
+     1>d:\projects\development\star-studded heroes\star-studded heroes\star-studded heroes\src\RenderModule.h(16): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         EntityPhysicsComponent.cpp
+         EntityRenderComponent.cpp
+         InputModule.cpp
+         main.cpp
+     1>d:\projects\development\star-studded heroes\star-studded heroes\star-studded heroes\src\RenderModule.h(16): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         PhysicsModule.cpp
+         RenderComponent.cpp
+         RenderModule.cpp
+     1>d:\projects\development\star-studded heroes\star-studded heroes\star-studded heroes\src\RenderModule.h(16): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         World.cpp
+     1>Done Building Project "D:\Projects\Development\Star-Studded Heroes\Star-Studded Heroes\Star-Studded Heroes\Star-Studded Heroes.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.32
